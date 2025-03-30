@@ -58,6 +58,14 @@ print(f"Variance is : {var}")
 
 **Calculation:**
 
+![hamming](https://github.com/user-attachments/assets/9dc29f8c-fe60-43bc-aac8-78e94704a0ae)
+
+![exp8-1](https://github.com/user-attachments/assets/0207695e-3e3d-4110-822b-92a7cca29e01)
+
+![exp8-2](https://github.com/user-attachments/assets/7ce6b32d-43c5-4af7-9eb5-41cad708e3f0)
+
+![exp8-3](https://github.com/user-attachments/assets/c0fcc857-e19e-4ba1-aa8e-7e4447d2cc8d)
+
 **Results:**
 
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484
